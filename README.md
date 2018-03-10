@@ -2,7 +2,7 @@
 
 ## PatanjaliStore:
 This is sample project of store management using SQLite database.
-https://github.com/im-gautam/PatanjaliStore
+[PatanjaliStore](https://github.com/im-gautam/PatanjaliStore)
 
 
 
